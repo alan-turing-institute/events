@@ -7,7 +7,7 @@ weight: 5
 ---
 Cross-Consortia Sessions are open to all members of the AIM Consortia and RSF affiliates. In this session, AutSPACEs research team will present on the methods of public engagement, co-design, and inclusive research that have led to the success of an entirely co-created research project.
 
-**Friday 16th September, 10:00 - 11:00**
+**Monday 26th September, 10:00 - 11:00**
 
 The session will be hosted on Zoom, please contact the AIM RSF Community Manager at sbatchelor@turing.ac.uk for joining details.
 
