@@ -35,7 +35,7 @@ title = "AIM RSF September Event Series"
     grey = "#5C5A5A"
 
   [params.events]
-    summary_truncate = 150 # How many characters to include in the summary of the events before truncating
+    summary_truncate = 200 # How many characters to include in the summary of the events before truncating
 
 [menu]
   # Main Menu
