@@ -7,7 +7,6 @@ weight: 3
 ---
 AIM RSF Collaboration Cafes are drop in co-working sessions focused on collaboration and community building. Sessions are open to anyone working on AIM projects and will occur on a monthly basis.
 
-
 - Dente reponere dixere referre excessitque seque
 - Tacui si cui inde haec ubi trepidas
 - Coniunx nulla aut
