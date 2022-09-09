@@ -1,22 +1,27 @@
 [
   {
-    "title": "Reproducible, secure and interoperable infrastructure.",
-    "description": ".",
-    "image": "images/features/noun_branding_1885335.svg"
-  },
-  {
-    "title": "Accessible, research ready data.",
-    "description": "",
+    "title": "Accessible, Research Ready Data.",
+    "description": "Data wranglers, experts in data curation, quality control, and reproducibility, work with the Research Collaborations to align datasets and standards.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Community building and training.",
-    "description": "",
+    "title": "Community Building and Training.",
+    "description": "Establish connections between AIM researchers, and deliver training and mentorship to researchers that support the delivery of open source outputs.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }, 
   {
-    "title": "Patient and public involvement and engagement.",
-    "description": "",
+    "title": "Research Sustainability and Legacy.",
+    "description": "Work with researcher teams to embed outputs in existing clinical and academic, and engage with policy makers to coordinate a long term investment in MLTC research",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }, 
+  {
+    "title": "Reproducible, Secure and Interoperable infrastructure.",
+    "description": "Bring together research collaborations across the UK together within a trusted research environment to facilitate data, software and analysis sharing.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Patient and Public Involvement and Engagement.",
+    "description": "Foster an embedded PPIE community focused on supporting and empowering people with lived experience of MLTC to co-create research alongside academic partners.", 
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
