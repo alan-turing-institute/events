@@ -5,15 +5,19 @@ featured: true
 draft: false
 weight: 3
 ---
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+AIM RSF Collaboration Cafes are drop in co-working sessions focused on collaboration and community building. Sessions are open to anyone working on AIM projects and will occur on a monthly basis.
+
 
 - Dente reponere dixere referre excessitque seque
 - Tacui si cui inde haec ubi trepidas
 - Coniunx nulla aut
+
+
+**Thursday 15th September, 14:00 - 16:00**
+
+## Introduction
+
+The AIM RSF Seminars are a regular series of open invitation talks from leading voices in data science, AI, healthcare and those with lived experience dealing with multiple long-term conditions (MLTC).
 
 ## Geniti facinus praeruptam atris ab manus in
 

@@ -11,8 +11,7 @@ Meag Doherty of National Institute of Health's All of Us research program presen
 
 ## Introduction
 
-The AIM RSF Seminars are a regular series of open invitation talks from leading voices in data science, AI, healthcare and those with lived experience dealing with
-multiple long-term conditions (MLTC).
+The AIM RSF Seminars are a regular series of open invitation talks from leading voices in data science, AI, healthcare and those with lived experience dealing with multiple long-term conditions (MLTC).
 
 This talk is part of a series of events that the RSF is hosting in
 September, all centred around Patient and Public Involvement and
