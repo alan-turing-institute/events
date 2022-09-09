@@ -9,6 +9,8 @@ Cross-Consortia Sessions are open to all members of the AIM Consortia and RSF af
 
 **Friday 16th September, 10:00 - 11:00**
 
+The session will be hosted on Zoom, please contact the AIM RSF Community Manager at sbatchelor@turing.ac.uk for joining details.
+
 ## Citizen Science and Co-creation
 
 
