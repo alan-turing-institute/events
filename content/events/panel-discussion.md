@@ -7,47 +7,29 @@ weight: 4
 ---
 Professor Ronan Lyons (SAIL), Lynsey Cross (HDR-UK), and Meag Doherty (NIH-AoU) discuss PPIE best practices, and provide insight from their experiences leading PPIE efforts at a National level.
 
+**Friday 16th September, 10:00 - 11:00**
+
 ## Public Involvement for Better Research
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+The genuine inclusion of individuals from diverse backgrounds is both an ethical imperative and vital for scientific validity. Failing to reach and involve affected people, or distorting or diminishing their input, makes research less comprehensive and nuanced while representative research, incorporating a rich range of perspectives, improves scientific validity, and delivers broader and more equitable impact.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+This Discussion Panel will draw on the expertise of PPIE leaders to provide insights, best practices, and lessons learned for how projects can involve patients and members of the public in a research project in a way that supports public engagement and improves research output.
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+The session will be hosted on Zoom, please contact the AIM RSF Community Manager at sbatchelor@turing.ac.uk for joining details. 
 
-## Postquam tamen
+## Speakers
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+#### Professor Ronan Lyons, OBE
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+Ronan Lyons is Professor of Public Health at Swansea University, UK, Co-Director of the SAIL Databank, Associate Director for the MRC’s Dementias Research Platform UK (DPUK) Chair of the International Collaborative Effort on Injury Statistics, and an Adjunct Professor at Monash University, Australia. He is the PI of the Wales Multimorbidity Cohort and was Director of Health Data Research UK, Wales and Northern Ireland from 2018 to 2021. In 2021 he was awarded an OBE for services to research, innovation and public health. With nearly 40 years experience in medicine, public health, and data science, Ronan’s primary research interests lies in the use of linked data to support observational and interventional research to improve the health of the population.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+#### Meag Doherty
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Meag Doherty is the Director of Research Experience, at the National Institutes of Health’s *All of Us* Research Program. She has spent the past 10+ years growing teams and technologies for public benefit at places like Mass General Brigham, CThe US State Department’s Centers for Medicare & Medicaid Services, and the National Institutes of Health (NIH). Currently Meag leads a team working on building up a research community around NIH's *All of Us* Research Program. Meag holds a B.S. in Health Policy and Management from Providence College and holds a Software Engineering Immersive Certificate from General Assembly and was named a Software Sustainability Fellow in 2022. In her volunteer time, Meag mentors open source community builders with Open Life Sciences and co-organizes events for underrepresented technologists in Washington, D.C.
+
+#### Lynsey Cross
+
+
 
 
 Please note that all information and events hosted in this series fall under the guidance of The Alan Turing Institute’s [Events Policy](https://www.turing.ac.uk/events/policies-and-guidelines).
