@@ -15,7 +15,7 @@ The genuine inclusion of individuals from diverse backgrounds is both an ethical
 
 This Discussion Panel will draw on the expertise of PPIE leaders to provide insights, best practices, and lessons learned for how projects can involve patients and members of the public in a research project in a way that supports public engagement and improves research output.
 
-The session will be hosted on Zoom, please contact the AIM RSF Community Manager at sbatchelor@turing.ac.uk for joining details. 
+The session will be hosted on Zoom, please contact the AIM RSF Community Manager at sbatchelor@turing.ac.uk for joining details.
 
 ## Speakers
 
@@ -29,7 +29,6 @@ Meag Doherty is the Director of Research Experience, at the National Institutes 
 
 #### Lynsey Cross
 
-
-
+[bio coming soon]
 
 Please note that all information and events hosted in this series fall under the guidance of The Alan Turing Institute’s [Events Policy](https://www.turing.ac.uk/events/policies-and-guidelines).
