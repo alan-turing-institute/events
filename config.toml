@@ -1,4 +1,4 @@
-baseURL = "https://alan-turing-institute.github.io/hello/"
+baseURL = "https://alan-turing-institute.github.io/events/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-gb"
