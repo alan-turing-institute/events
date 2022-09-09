@@ -5,51 +5,26 @@ featured: true
 draft: false
 weight: 5
 ---
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Cross-Consortia Sessions are open to all members of the AIM Consortia and affiliates. In this session, the AutSPACEs research team will present on the methods of public engagement, co-design, and inclusive research that have led to the success of an entirely co-created research project. 
+
+**Friday 16th September, 10:00 - 11:00**
 
 ## Citizen Science and Co-creation
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## About AutSPACEs
 
-## Postquam tamen
+AutSPACEs is a community-led citizen science project seeking to make environments more accessible for autistic people.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Around 90% of autistic people process sensory information differently to non-autistic people. As a result, many public spaces are not well designed for autistic people. They may be too bright, busy or loud.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+The Alan Turing Institute is working with Autistica and Open Humans to use citizen science to understand what autistic people would like to change about these public spaces. We are building an online platform openly on GitHub, and make the code, process documentation, and focus group design data publicly available.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+Autistic people have been involved throughout the research cycle, including setting priorities, making research design decisions, interpreting data, and co-authoring and co-presenting work. We run Collaboration Sessions twice per month to welcome new members and provide support for ongoing initiatives including online moderation and platform infrastructure.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+You can find more information about the AutSPACEs project on our [webite](https://www.turing.ac.uk/research/research-projects/citizen-science-platform-autistica).
 
+---
 
 Please note that all information and events hosted in this series fall under the guidance of The Alan Turing Institute’s [Events Policy](https://www.turing.ac.uk/events/policies-and-guidelines).
