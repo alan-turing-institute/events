@@ -1,17 +1,22 @@
 [
   {
-    "title": "Item 1",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Reproducible, secure and interoperable infrastructure.",
+    "description": ".",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Item 2",
-    "description": "All members of our team are certified accountants.",
+    "title": "Accessible, research ready data.",
+    "description": "",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Item 3",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Community building and training.",
+    "description": "",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }, 
+  {
+    "title": "Patient and public involvement and engagement.",
+    "description": "",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
