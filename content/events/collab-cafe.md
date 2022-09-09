@@ -5,48 +5,29 @@ featured: true
 draft: false
 weight: 3
 ---
-AIM RSF Collaboration Cafes are drop in co-working sessions focused on collaboration and community building. Sessions are open to anyone working on AIM projects and will occur on a monthly basis.
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+AIM RSF Collaboration Cafes are drop in co-working sessions focused on collaboration and community building.
+Sessions are open to anyone working on AIM projects and occur on the third Thursday of every month.
 
+Next session: **Thursday 15th September, 14:00 - 16:00**
 
-**Thursday 15th September, 14:00 - 16:00**
+Sessions are hosted on Zoom; If you don't already have a calendar invite and would like to attend, please contact the Community Manager for Open Collaboration, Eirini Zormpa at ezormpa@turing.ac.uk
 
 ## Introduction
 
-The AIM RSF Seminars are a regular series of open invitation talks from leading voices in data science, AI, healthcare and those with lived experience dealing with multiple long-term conditions (MLTC).
+During Collaboration Cafes, attendees go into breakout rooms and either work with others to solve a common problem or focus on quiet working (e.g. writing).
 
-## Geniti facinus praeruptam atris ab manus in
+In terms of **collaboration**, these sessions give attendees a chance to learn what other members of the AIM consortia have been working on and identify areas of common interest.
+They are also a great place to meet people that have expertise in relevant methodologies or programming languages.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+Collaboration Cafes can also be great for **quiet work** as they provide social motivation and support; for example, in a break-out room where everyone is working writing their own papers, it can be helpful to your motivation that everyone else in the room is struggling with the same task.
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+## About the event
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+As this will be our first event, we will spend some time getting to know each other and the problems we are facing.
+Members of the AIM RSF will also be there and you can ask for their support, for example on data standards, training, and PPIE.
+For example, Eirini Zormpa (Community Manager Open Collaboration) would love to work on some shared documentation about AIM projects and methods and Sophia Batchelor will lead a session on a glossary for PPIE.
 
-## Vidit si probetne vertitur
+---
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+Please note that all information and events hosted in this series fall under the guidance of The Alan Turing Institute’s [Events Policy](https://www.turing.ac.uk/events/policies-and-guidelines).
