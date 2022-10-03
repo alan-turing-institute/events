@@ -1,0 +1,4 @@
+
+[submodule "themes/hugo-serif-theme"]
+	path = themes/hugo-serif
+	url = https://github.com/zerostaticthemes/hugo-serif-theme
