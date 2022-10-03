@@ -48,7 +48,6 @@ title = "AIM RSF September Event Series"
     url = "/test/"
     weight = 2
 
-
   [[menu.main]]
     name = "Get in Touch"
     url = "/contact-us/"
