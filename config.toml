@@ -9,8 +9,8 @@ title = "AIM RSF September Event Series"
     extended = true
     min = "0.55.0"
 
-  [params.homepage]
-    show_contact_box = false     # show / hide the contact box on the homepage
+  [params.events]
+    show_contact_box = true     # show / hide the contact box on the homepage
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
