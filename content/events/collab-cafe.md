@@ -6,14 +6,18 @@ draft: false
 weight: 3
 ---
 
+Next session: **Thursday 20th October, 14:00 - 16:00**
+Contact: ezormpa@turing.ac.uk for joining details. 
+Open to all.   
+
+## What are Collaboration Cafes.
+
 AIM RSF Collaboration Cafes are drop in co-working sessions focused on collaboration and community building.
 Sessions are open to anyone working on AIM projects and occur on the third Thursday of every month.
 
-Next session: **Thursday 15th September, 14:00 - 16:00**
-
 Sessions are hosted on Zoom; If you don't already have a calendar invite and would like to attend, please contact the Community Manager for Open Collaboration, Eirini Zormpa at ezormpa@turing.ac.uk
 
-## Introduction
+## How the AIM RSF runs Collaboration Cafes.
 
 During Collaboration Cafes, attendees go into breakout rooms and either work with others to solve a common problem or focus on quiet working (e.g. writing).
 
@@ -24,9 +28,9 @@ Collaboration Cafes can also be great for **quiet work** as they provide social 
 
 ## About the event
 
-As this will be our first event, we will spend some time getting to know each other and the problems we are facing.
-Members of the AIM RSF will also be there and you can ask for their support, for example on data standards, training, and PPIE.
-For example, Eirini Zormpa (Community Manager Open Collaboration) would love to work on some shared documentation about AIM projects and methods and Sophia Batchelor will lead a session on a glossary for PPIE.
+We will spend some time getting to know each other and the problems we are facing.
+You will be able to ask fellow members of the AIM RSF for their support, ideas, examples of data management, training, and PPIE.
+For example, Eirini Zormpa (Community Manager for Open Collaboration) would love to work on some shared documentation about AIM projects and methods and Sophia Batchelor will lead a session on co-developing a glossary of terms used across the AIM Consortia.
 
 ---
 

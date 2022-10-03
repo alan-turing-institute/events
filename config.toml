@@ -10,8 +10,8 @@ title = "AIM RSF September Event Series"
     min = "0.55.0"
 
   [params.homepage]
-    show_contact_box = true     # show / hide the contact box on the homepage
-    show_services_button = true # show / hide the "view all services" button
+    show_contact_box = false     # show / hide the contact box on the homepage
+    show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
     mobile = "images/logo/test-logo.png"
@@ -34,7 +34,7 @@ title = "AIM RSF September Event Series"
     grey = "#5C5A5A"
 
   [params.events]
-    summary_truncate = 200 # How many characters to include in the summary of the events before truncating
+    summary_truncate = 120 # How many characters to include in the summary of the events before truncating
 
 [menu]
   # Main Menu
