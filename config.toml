@@ -44,7 +44,7 @@ title = "AIM RSF September Event Series"
     weight = 1
 
   [[menu.main]]
-    name = "Test"
+    name = "Test Page"
     url = "/test/"
     weight = 2
 
