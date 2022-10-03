@@ -11,7 +11,7 @@ title = "AIM RSF September Event Series"
 
   [params.homepage]
     show_contact_box = true     # show / hide the contact box on the homepage
-    show_services_button = false # show / hide the "view all services" button
+    show_services_button = true # show / hide the "view all services" button
 
   [params.logo]
     mobile = "images/logo/test-logo.png"
