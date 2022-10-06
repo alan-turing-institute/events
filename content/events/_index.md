@@ -3,7 +3,7 @@ title: 'Events'
 description: 'Event series running during PPIE month with the AIM RSF'
 intro_image: "images/illustrations/coworking-blue-scriberia.jpg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: false
+intro_image_hide_on_mobile: true
 ---
 # AIM RSF Events
 
