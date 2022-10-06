@@ -39,7 +39,7 @@ title = "AIM RSF September Event Series"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "September Events"
+    name = "Events"
     url = "/events/"
     weight = 1
 
