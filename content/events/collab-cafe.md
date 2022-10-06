@@ -6,8 +6,8 @@ draft: false
 weight: 3
 ---
 
-Next session: **Thursday 20th October, 14:00 - 16:00**
-Contact: ezormpa@turing.ac.uk for joining details. 
+Next session: **Thursday 20th October, 14:00 - 16:00** </br>
+Contact: ezormpa@turing.ac.uk for joining details. </br>
 Open to all.   
 
 ## What are Collaboration Cafes.
