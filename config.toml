@@ -63,3 +63,8 @@ title = "AIM RSF September Event Series"
     name = "Contact"
     url = "/contact-us/"
     weight = 2
+
+  [[menu.footer]]
+    name = "Icons on this website are provided by the Noun Project under CC-BY 4.0 License "
+    url = "https://thenounproject.com/"
+    weight = 3
